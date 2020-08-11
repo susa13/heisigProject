@@ -1,0 +1,40 @@
+1 one
+2 two
+3 three
+4 four
+5 five
+6 six
+7 seven
+8 eight
+9 nine
+10 ten
+11 mouth
+12 day
+13 month
+14 rice field
+15 eye
+16 old
+17 I
+18 risk
+19 companion
+20 bright
+21 chant
+22 sparkle
+23 goods
+24 spine
+25 prosperous
+26 early
+27 rising sun
+28 generation
+29 stomach
+30 nightbreak
+31 gall bladder
+32 span
+33 concave
+34 convex
+35 olden times
+36 oneself
+37 white
+38 hundred
+39 in
+40 thousand

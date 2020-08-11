@@ -1,0 +1,285 @@
+1 one
+2 two
+3 three
+4 four
+5 five
+6 six
+7 seven
+8 eight
+9 nine
+10 ten
+11 mouth
+12 day
+13 month
+14 rice field
+15 eye
+16 old
+17 I
+18 risk
+19 companion
+20 bright
+21 chant
+22 sparkle
+23 goods
+24 spine
+25 prosperous
+26 early
+27 rising sun
+28 generation
+29 stomach
+30 nightbreak
+31 gall bladder
+32 span
+33 concave
+34 convex
+35 olden times
+36 oneself
+37 white
+38 hundred
+39 in
+40 thousand
+41 tongue
+42 measuring box
+43 rise up
+44 round
+45 measurement
+46 specialty
+47 Dr.
+48 fortune-telling
+49 above
+50 below
+51 eminent
+52 morning
+53 only
+54 shellfish
+55 upright
+56 employee
+57 see
+58 newborn babe
+59 beginning
+60 page
+61 stubborn
+62 mediocre
+63 defeat
+64 ten thousand
+65 phrase
+66 texture
+67 decameron
+68 ladle
+69 bull's eye
+70 neck
+71 fish gut
+72 riot
+73 straightaway
+74 tool
+75 true
+76 craft
+77 left
+78 right
+79 possess
+80 bribe
+81 tribute
+82 paragraph
+83 sword
+84 blade
+85 cut
+86 seduce
+87 shining
+88 rule
+89 vice-
+90 separate
+91 street
+92 village
+93 can
+94 place on the head
+95 child
+96 cavity
+97 complete
+98 woman
+99 fond
+100 likeness
+101 mama
+102 pierce
+103 elder brother
+104 overcome
+105 little
+106 few
+107 large
+108 many
+109 evening
+110 eventide
+111 outside
+112 name
+113 stone
+114 resemblance
+115 nitrate
+116 smash
+117 sand
+118 plane
+119 ray
+120 plump
+121 utensil
+122 stinking
+123 exquisite
+124 focus
+125 thick
+126 strange
+127 stream
+128 state
+129 obey
+130 water
+131 icicle
+132 eternity
+133 spring
+134 meadow
+135 petition
+136 swim
+137 marsh
+138 open sea
+139 creek
+140 soup
+141 tide
+142 source
+143 lively
+144 extinguish
+145 but of course
+146 river
+147 overnight
+148 lake
+149 fathom
+150 soil
+151 spit
+152 pressure
+153 cape
+154 hedge
+155 squared jewel
+156 seal
+157 horizon
+158 Buddhist temple
+159 time
+160 level
+161 fire
+162 inflammation
+163 anxiety
+164 thin
+165 lamp
+166 farm
+167 disaster
+168 ashes
+169 spot
+170 illuminate
+171 fish
+172 fishing
+173 ri
+174 black
+175 black ink
+176 carp
+177 quantity
+178 rin
+179 bury
+180 same
+181 den
+182 trunk
+183 yonder
+184 esteem
+185 character
+186 guard
+187 perfect
+188 proclaim
+189 wee hours
+190 relax
+191 banquet
+192 draw near
+193 wealth
+194 savings
+195 tree
+196 grove
+197 forest
+198 Japanese Judas-tree
+199 oak
+200 frame
+201 tree tops
+202 shelf
+203 apricot
+204 paulownia
+205 plant
+206 wither
+207 crude
+208 town
+209 inter-
+210 desk
+211 book
+212 tag
+213 calendar
+214 plan
+215 parch
+216 not yet
+217 extremity
+218 splash
+219 flavor
+220 younger sister
+221 vermilion
+222 stocks
+223 young
+224 grass
+225 suffering
+226 tolerant
+227 dilute
+228 leaf
+229 imitation
+230 vague
+231 grave
+232 livelihood
+233 membrane
+234 seedling
+235 portent
+236 peach tree
+237 stare
+238 dog
+239 status quo
+240 silence
+241 sort of thing
+242 reed
+243 hunt
+244 cat
+245 cow
+246 special
+247 revelation
+248 before
+249 wash
+250 jammed in
+251 world
+252 tea
+253 fit
+254 pagoda
+255 king
+256 jewel
+257 treasure
+258 pearl
+259 present
+260 lunatic
+261 emperor
+262 display
+263 whole
+264 plug
+265 logic
+266 lord
+267 pour
+268 pillar
+269 gold
+270 pig iron
+271 bowl
+272 copper
+273 angling
+274 needle
+275 inscription
+276 tranquilize
+277 road way
+278 guidance
+279 crossing
+280 swift
+281 create
+282 urge
+283 escape
+284 environs
+285 patrol
