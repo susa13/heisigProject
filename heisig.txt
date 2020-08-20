@@ -283,3 +283,23 @@
 283 escape
 284 environs
 285 patrol
+286 car
+287 take along
+288 rut
+289 transport
+290 in front
+291 each
+292 status
+293 abbreviation
+294 guest
+295 forehead
+296 summer
+297 dispose
+298 twig
+299 fall
+300 superfluous
+301 army
+302 radiance
+303 carry
+304 crown
+305 dream
