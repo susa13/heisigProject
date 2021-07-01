@@ -1,4 +1,6 @@
 # heisigProject  
+![ss](https://user-images.githubusercontent.com/50350542/124060552-4a35f180-d9fb-11eb-97de-69cd920bc855.PNG)
+
 simple flash card randomizer/study tool  
 "heisig.txt" and "kanji.txt" should be in the same directory as heisigProject.  
 It follows the order of keyword to text file line number so keep that in mind.  
